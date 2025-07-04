@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Environment-dependent pagit remote add origin https://github.com/Jeevika-17/AcademiaHub.gitth to Maven home directory
+/mavenHomeManager.xml
+# Ignore database configuration file
+/db_config.properties
